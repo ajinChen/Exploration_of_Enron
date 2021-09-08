@@ -6,3 +6,6 @@ Project description<br>
 • Collect, filter, aggregate data from a large collection of files (about 1.5G) from scratch using python language(Pandas, Numpy).<br>
 • Condense redundant data set into light feather format using Pyarrow for further data exploration.<br>
 • Explore critical relationships from large email data set using NetworkX & Matplotlib and realize the visualizing graph to present the inner network details.<br>
+
+Enron Data Set Link:<br>
+https://www.cs.cmu.edu/~./enron/enron_mail_20150507.tar.gz
